@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioParam version="1.0">
+  <ParamTree>
+    <Param path="" param_id="0"/>
+  </ParamTree>
+  <ParamUnitPool>
+    <ParamUnit param_id="0">
+      <Param name="voip_ap_delay_ms" value="23"/>
+      <Param name="3gvt_ap_delay_ms" value="0"/>
+      <Param name="voice_cp_delay_ms" value="182"/>
+      <Param name="vowifi_wb_ap_delay_ms" value="0"/>
+      <Param name="vowifi_nb_ap_delay_ms" value="0"/>
+    </ParamUnit>
+  </ParamUnitPool>
+</AudioParam>
